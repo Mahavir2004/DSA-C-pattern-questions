@@ -10,6 +10,14 @@ for (int i = 1; i <= n; i++)
 {
     for (int j = 1; j <= k ; j++)
     {
+        if (i==3|| j==2|| j==3|| j||4|| i==3)
+        {
+           printf("* ");
+        }
+         else{
+            printf("  ");
+         }
+         printf("\n");
         
     }
     
